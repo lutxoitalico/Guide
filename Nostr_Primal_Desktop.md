@@ -91,6 +91,8 @@ Vai sull'icona in basso, dovresti vedere il tuo nome e avatar.
 Ora clicca i 3 puntini e poi clicca su _Copy user link_  
 Puoi condividere questo link su altri social per farti trovare su Nostr.
 
+![Image](https://images2.imgbox.com/69/da/m3CdigUW_o.png)
+
 ### 11. Troviamoci su Nostr
 
 Se hai seguito questo tutorial e sei riuscito ad avere il tuo account, sei il legittimo proprietario dei tuoi post. Complimenti!
