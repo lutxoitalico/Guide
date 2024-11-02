@@ -99,6 +99,8 @@ Ho creato una nota su Nostr dove ho pubblicato questo tutorial.
 Vieni e rispondi al post con la tua chiave pubblica npub (non la nsec, mi raccomando)  
 o pubblica il tuo link personale, così posso seguirti e darti il benvenuto su Nostr.
 
+[Nota su Nostr](https://primal.net/e/note19wxe6nwhgljtwdyszspen8psvakcfxwa259ydn9ew8t679huph4s5npzgm)
+
 La mia chiave pubblica npub: npub1yhwzdqnhgkj3k85t97rvw23s3q9lycvk67ahlpph32nnkrqujn0sx6svsp  
 Link al mio profilo: [Lutxo](primal.net/p/npub1yhwzdqnhgkj3k85t97rvw23s3q9lycvk67ahlpph32nnkrqujn0sx6svsp)  
 Link alla nota: 
