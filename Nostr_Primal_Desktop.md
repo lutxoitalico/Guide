@@ -52,12 +52,12 @@ Trovi la schermata per impostare un pin
 
 ![Image](https://images2.imgbox.com/65/29/njWUIyX1_o.png)
 
-Tip: se sei sul tuo pc personle e solo tu hai accesso, usa il pin.
-Altrimenti meglio usare la chiave 'nsec' e fare copia incolla direttamente dal gestore di password 
+Se sei sul tuo pc personle e solo tu hai accesso, usa il pin.
 
-Gestore di password che mi piace: Bitwarden o 1password
+Conserva con cura la chiave privata, puoi usare un gestore di password come Bitwarden o 1password
 
 [Bitwarden](https://bitwarden.com/)
+
 [1password](https://1password.com/)
 
 ci siamo qualsi.
@@ -72,11 +72,12 @@ Clicca sull'immagine e poi _Follow_
 
 ### 9.- Le chiavi
 
-Andiamo a recuperare le chiavi, pubblica e privata
-La chiave publica 'npub' è il tuo Nome PUBblico su nostr
-la chiave privata 'nsec' è la tua Nome SEgreto, simile ad una password.
+Troviamo le chiavi, pubblica e privata
 
-La chiave publica deriva dalla chiave privata e nessuna delle due puo essere modificata. Attenzione che se perdi la chiave privata perdi per sempre l'accesso al tuo account, allo stesso modo se perdi le chiavi di Bitcoin, perdi l'accesso ai tuoi bitcoin
+La chiave publica 'npub' è il tuo Nome PUBblico su nostr
+la chiave privata 'nsec' è i la tua password SEgreta (simile ad una password)
+
+La chiave publica deriva dalla chiave privata e nessuna delle due puo essere modificata. Attenzione che se perdi la chiave privata, perdi per sempre l'accesso al tuo account, allo stesso modo se perdi le chiavi di Bitcoin, perdi l'accesso ai tuoi bitcoin
 
 Vai su _Settings_ 
 ![Image](https://images2.imgbox.com/40/a6/HeMiQaxo_o.png)
@@ -99,14 +100,17 @@ Vai sulla icona in basso, dovresti vedere nome e avatar
 
 ora clicca i 3 puntini 
 poi click su _Copy user link_
-Puoi condividere questo link su altri social per farti trovare su Nostr
+Puoi condividere questo tuo link su altri social per farti trovare su Nostr
 
 ### 11.- Troviamoci su Nostr
 
-Se hai seguito questo tutorial è sei riuscito ad avere il tuo account sei il legitimo proprietario dei tuoi post, complimenti
-Ho creato un post dove ho publicato questo tutorial, 
-vieni e rispondi al post con la tua chiave pubblica npub (non la nsec miracomando)
-o pubblica il tuo link personale cosi posso seguirti e darti il benvenuto su Nostr
+Se hai seguito questo tutorial è sei riuscito ad avere il tuo account sei il legitimo proprietario dei tuoi post, complimenti!
+
+Ho creato una nota su Nostr dove ho publicato questo tutorial, 
+vieni e rispondi al post con la tua chiave pubblica npub (non la nsec miracomandoooo)
+o pubblica il tuo link personale, cosi posso seguirti e darti il benvenuto su Nostr
+
+
 
 La mia chiave publica npub: npub1yhwzdqnhgkj3k85t97rvw23s3q9lycvk67ahlpph32nnkrqujn0sx6svsp
 Link al mio profilo: [Lutxo](primal.net/p/npub1yhwzdqnhgkj3k85t97rvw23s3q9lycvk67ahlpph32nnkrqujn0sx6svsp)
@@ -116,4 +120,3 @@ Link alla nota:
 PS: se hai un account github lasciami una stella 
 PS2: se hai un account github e trovi un errore, fai una una PR
 PS3: se non hai un account github cosa aspetti epr aprire uno nuovo
-
