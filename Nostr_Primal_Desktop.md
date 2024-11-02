@@ -102,7 +102,7 @@ o pubblica il tuo link personale, così posso seguirti e darti il benvenuto su N
 [Nota su Nostr](https://primal.net/e/note19wxe6nwhgljtwdyszspen8psvakcfxwa259ydn9ew8t679huph4s5npzgm)
 
 La mia chiave pubblica npub: npub1yhwzdqnhgkj3k85t97rvw23s3q9lycvk67ahlpph32nnkrqujn0sx6svsp  
-Link al mio profilo: [Lutxo](primal.net/p/npub1yhwzdqnhgkj3k85t97rvw23s3q9lycvk67ahlpph32nnkrqujn0sx6svsp)  
+Link al mio profilo: [Lutxo](https://primal.net/p/npub1yhwzdqnhgkj3k85t97rvw23s3q9lycvk67ahlpph32nnkrqujn0sx6svsp)  
 Link alla nota: 
 
 PS: se hai un account GitHub lasciami una stella.  
